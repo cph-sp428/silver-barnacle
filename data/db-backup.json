@@ -1,0 +1,76 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "name": "Ultrawide PC Monitor",
+      "price": 1000,
+      "description": "A 49 inch ultrawide monitor for your PC",
+      "category": "Electronics",
+      "link": "https://www.amazon.com/Samsung-49-Inch-Curved-Monitor-LC49RG90SSNXZA/dp/B07L9HCJ2V/ref=sr_1_1?dchild=1&keywords=ultrawide+monitor&qid=1605547703&sr=8-1"
+    },
+    {
+      "id": 2,
+      "name": "Fox Suspension Fork",
+      "price": 3000,
+      "description": "A front mountainbike fork for 29 inch wheels",
+      "category": "Sports",
+      "link": "https://www.amazon.com/FOX-Performance-Float-29in-Boost/dp/B07B4QZQZB/ref=sr_1_1?dchild=1&keywords=fox+suspension+fork&qid=1605547774&sr=8-1"
+    },
+    {
+      "id": 3,
+      "name": "Iphone 15",
+      "price": 15000,
+      "description": "The newest Iphone",
+      "category": "Electronics",
+      "link": "https://www.amazon.com/Apple-iPhone-12-128GB-Blue/dp/B08L5Q1PL6/ref=sr_1_1?dchild=1&keywords=iphone+12&qid=1605547838&sr=8-1"
+    },
+    {
+      "id": 4,
+      "name": "Dress Shirt",
+      "price": 1000,
+      "description": "A nice black dress shirt",
+      "category": "Clothing",
+      "link": "https://www.amazon.com/Calvin-Klein-Dress-Shirt-Black/dp/B07J2QZQ4L/ref=sr_1_1?dchild=1&keywords=dress+shirt&qid=1605547879&sr=8-1"
+    },
+    {
+      "id": 5,
+      "name": "Gaming PC",
+      "price": 2000,
+      "description": "A gaming PC with a 3080",
+      "category": "Electronics",
+      "link": "https://www.amazon.com/Skytech-Chronos-Gaming-Desktop-Motherboard/dp/B08J9XXH8W/ref=sr_1_1?dchild=1&keywords=gaming+pc&qid=1605547921&sr=8-1"
+    },
+    {
+      "id": 6,
+      "name": "Gaming Mouse",
+      "price": 100,
+      "description": "A gaming mouse with 12 buttons",
+      "category": "Electronics",
+      "link": "https://www.amazon.com/Logitech-G600-Gaming-Mouse-Black/dp/B0086UK7IQ/ref=sr_1_1?dchild=1&keywords=gaming+mouse&qid=1605547961&sr=8-1"
+    },
+    {
+      "id": 7,
+      "name": "Gaming Keyboard",
+      "price": 100,
+      "description": "A gaming keyboard with RGB",
+      "category": "Electronics",
+      "link": "https://www.amazon.com/Redragon-K552-Mechanical-Keyboard-Construction/dp/B016MAK38U/ref=sr_1_1?dchild=1&keywords=gaming+keyboard&qid=1605547999&sr=8-1"
+    },
+    {
+      "id": 8,
+      "name": "Gaming Headset",
+      "price": 100,
+      "description": "A gaming headset with RGB",
+      "category": "Electronics",
+      "link": "https://www.amazon.com/Logitech-G432-Wired-Gaming-Headset/dp/B07MRMHMLD/ref=sr_1_1?dchild=1&keywords=gaming+headset&qid=1605548036&sr=8-1"
+    },
+    {
+      "id": 9,
+      "name": "Gaming Chair",
+      "price": 100,
+      "description": "A gaming chair with RGB",
+      "category": "Electronics",
+      "link": "https://www.amazon.com/RESPAWN-110-Racing-Style-Gaming-Reclining/dp/B076HTJRM9/ref=sr_1_1?dchild=1&keywords=gaming+chair&qid=1605548072&sr=8-1"
+    }
+  ]
+}
